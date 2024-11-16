@@ -1,4 +1,4 @@
-<p>Experienced in full-stack development with skills in Ruby on Rails, Django, Python, JavaScript, and SQL. Passionate about full-stack development and eager to contribute to impactful projects. Always learning and ready for new challenges.</p>
+<p>Software Engineer pursuing a B.S./M.S. in Computer Science at the University of Memphis. Experienced in full-stack development with skills in Ruby on Rails, Django, Python, JavaScript, and SQL. Passionate and eager to contribute to impactful projects. Always learning and ready for new challenges.</p>
 
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
