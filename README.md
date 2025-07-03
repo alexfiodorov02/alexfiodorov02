@@ -3,7 +3,8 @@
   <h2>🖥️ Languages</h2>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,ruby,html,css,scss,c,cs"/>
   <h2>🧰 Frameworks & Tools</h2>
-  <img src="https://skillicons.dev/icons?i=react,redux,angular,tailwind,nextjs,nodejs,rails,django,dotnet,git/>
+  <img src="https://skillicons.dev/icons?i=react,redux,angular,tailwind,nextjs,nodejs,rails,django,dotnet,git"/>
+  <br>
   <img src="https://skillicons.dev/icons?i=docker,gitlab,github"/>
 
   <h2>🗄️ Cloud & Databases</h2>
