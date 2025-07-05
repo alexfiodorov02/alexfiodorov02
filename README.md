@@ -1,7 +1,7 @@
 <p align="center">
 <div style="font-family: sans-serif;">
   <h2>🖥️ Languages</h2>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,ruby,html,css,scss,c,cs"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,ruby,swift,cs,html,css,scss"/>
   <h2>🧰 Frameworks & Tools</h2>
   <img src="https://skillicons.dev/icons?i=react,redux,angular,tailwind,nextjs,nodejs,rails,django,dotnet,git"/>
   <br>
